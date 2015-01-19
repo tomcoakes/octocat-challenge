@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Allows you to clone repositories, either locally or from GitHub. Cloned repositories can then be merged back to the master.
