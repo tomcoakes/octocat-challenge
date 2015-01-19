@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+The upstream remote is the name of the branch from which you forked a repository. It’s not the same as YOUR own origin remote, as that’s just a copy and not the original.
