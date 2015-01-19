@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is an offshoot from the master branch that can be used to create new features or work on patches without affecting the code that is already deployed. Once you’re finished, you can merge the branch back into the master.
